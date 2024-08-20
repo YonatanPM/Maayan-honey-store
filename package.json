@@ -11,7 +11,13 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "axios": "^1.6.8",
+    "bcryptjs": "^2.4.3",
+    "formik": "^2.4.6",
+    "mongoose": "^8.3.2",
+    "next-auth": "^4.24.7",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "postcss": "^8",
